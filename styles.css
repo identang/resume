@@ -3,7 +3,7 @@ body {
   line-height: 1.5em;
   padding-left:7em;
   padding-right:7em;
-  padding-top: 3em;
+  padding-top: 1em;
   width: 59.2825em;
   font-family: 'Poppins', sans-serif;
 }
@@ -62,4 +62,8 @@ li:not(:last-child) {
 
 .titleRow {
   margin-bottom: 0.5em;
+}
+
+a, a:visited {
+  color: black;
 }
