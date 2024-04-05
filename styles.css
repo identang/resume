@@ -58,7 +58,10 @@ li:not(:last-child) {
   margin-bottom: 7px;  
 }
 
-
+.headline {
+  display: flex;
+  flex-direction: row;
+}
 
 .titleRow {
   margin-bottom: 0.5em;
